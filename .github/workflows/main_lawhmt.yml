@@ -56,5 +56,5 @@
           with:
             app-name: 'lawhmt'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_43186336e6f44d68bf6c3cb521cd0a1d }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_500f8684adee4d9ab5636d789c05139d }}
             package: .
